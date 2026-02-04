@@ -29,11 +29,15 @@ Each skill encodes a methodology I actually use. They're opinionated, thorough, 
 ## Installation
 
 ```bash
+# All commands have to be executed in Claude CLI tool
 # Add marketplace
-/plugin marketplace add github:57uff3r/awesome-ai
+/plugin marketplace add 57uff3r/awesome-ai
 
 # Install plugin
 /plugin install akorchak-awesome-ai
+
+# Restart Claude via /exit command 
+# and all installed skills will appear in your system
 ```
 
 ## Philosophy
