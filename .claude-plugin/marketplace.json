@@ -1,0 +1,17 @@
+{
+  "name": "akorchak-awesome-ai",
+  "owner": {
+    "name": "Andrey Korchak",
+    "email": "me@akorchak.software"
+  },
+  "metadata": {
+    "description": "Curated skills for thinking, research, strategy, and business analysis"
+  },
+  "plugins": [
+    {
+      "name": "akorchak-awesome-ai",
+      "source": "./plugins/akorchak-awesome-ai",
+      "description": "Skills for deep thinking, research, strategy, ICP generation, and VC analysis"
+    }
+  ]
+}

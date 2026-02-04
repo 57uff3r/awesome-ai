@@ -1,0 +1,12 @@
+{
+  "name": "akorchak-awesome-ai",
+  "description": "Skills for deep thinking, research, strategy, ICP generation, and VC analysis",
+  "version": "1.0.0",
+  "author": {
+    "name": "Andrey Korchak",
+    "email": "me@akorchak.software"
+  },
+  "repository": "https://github.com/57uff3r/awesome-ai",
+  "license": "MIT",
+  "keywords": ["thinking", "research", "strategy", "gtm", "vc"]
+}
