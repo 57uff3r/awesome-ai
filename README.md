@@ -21,6 +21,7 @@ Each skill encodes a methodology I actually use. They're opinionated, thorough, 
 | Command | Description | Usage |
 |---------|-------------|-------|
 | `/akorchak:deep-research` | Multi-source research with validation, source tiering (Tier 1-3), and confidence levels | `/akorchak:deep-research [topic]` |
+| `/akorchak:forecast` | Probabilistic forecasting with Bayesian reasoning, reference class analysis, and scenario modeling | `/akorchak:forecast [question]` |
 | `/akorchak:icp-generator` | B2B Ideal Customer Profiles with 5-dimension analysis, buyer personas, and scoring model | `/akorchak:icp-generator [company]` |
 | `/akorchak:strategy` | Strategic planning with goal validation, theory of change, WOOP, and phased roadmaps | `/akorchak:strategy [goal]` |
 | `/akorchak:thinking-session` | Deep thinking with Socratic dialogue, rationality frameworks (CFAR), and systems thinking | `/akorchak:thinking-session` |
